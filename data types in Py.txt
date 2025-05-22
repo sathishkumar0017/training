@@ -1,0 +1,42 @@
+Data Types in Python:
+
+1> Numeric Data Types in Python:
+	
+	*Integers
+	*Float
+	*Complex Numbers
+
+2> Sequnce Data Types in Python:
+
+	*String
+	*list
+	*Tuple
+
+3> Boolean Data Types in Python:
+      	
+	*Bool
+	*True
+	*Flase
+
+4> Set Data Types in Python:
+
+	*Set
+	*Frozenset
+
+5> Binary data Types in Python:
+
+    	*Bytes
+	*Bytearray
+	*Memoryviwe
+
+
+
+
+
+
+
+
+
+
+
+8
