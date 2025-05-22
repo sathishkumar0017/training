@@ -1,0 +1,65 @@
+                                                    DATA TYPES IN PYTHON 
+
+1> Numeric Data Types in Python:
+	
+	*Integers:
+		   (Represents integers (whole numbers).
+			Eg: 10, -5, 0
+
+	*Float:
+		(Represents floating-point numbers (decimal numbers). 
+                        Eg: 3.14, -2.5, 0.0.
+
+	*Complex Numbers:
+			   (Represents complex numbers in the form a + bj, where a and b are floats, and j is the imaginary unit).
+				Eg: 2 + 3j, -1j.
+
+2> Sequnce Data Types in Python:
+
+	*String:
+		 (Represents strings (textual data), enclosed in single or double quotes).
+			Eg: "hello", 'world'.
+
+	*list:
+		(Represents ordered, mutable sequences of items, enclosed in square brackets). 
+			Eg: [1, 2, 3], ['a', 'b', 'c'].
+
+	*Tuple:
+		(Represents ordered, mutable sequences of items, enclosed in square brackets).
+			Eg: [1, 2, 3], ['a', 'b', 'c'].
+
+3> Boolean Data Types in Python:
+      	
+	*Bool:
+		(bool Represents boolean values, either True or False).
+
+	*True
+		
+	*Flase
+
+		     Eg:
+			>>> type (True)
+			<class 'bool'>
+			>>> type(False)
+			<class 'bool'>
+
+4> Set Data Types in Python:
+
+	*Set:
+	      (Represents an unordered collection of unique items, enclosed in curly braces). 
+			Eg: {1, 2, 3}, {'a', 'b', 'c'}.
+
+	*Frozenset:
+	           (Represents an immutable version of a set).
+			
+
+5> Binary data Types in Python:
+
+    	*Bytes:
+		(Represents immutable sequences of bytes).
+
+	*Bytearray:
+		    (Represents mutable sequences of bytes).
+
+	*Memoryviwe:
+		     (Provides a memory view of an object without copying).
